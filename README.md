@@ -5,7 +5,7 @@ Ce TP est ma proposition de solution au devoir sur l'Analyse de Sentiment du cou
 
 Les données, très connues, font partie du jeu de données `imdb` et doivent être extraites de l'archive de ce projet.
 
-Les commentaires du fichier `.ipynb` sont tantôt en Français, tantôt en Anglais.
+Les commentaires du fichier `notebook.ipynb` sont tantôt en Français, tantôt en Anglais.
 
 ## Sentiment Analysis Lab
 
@@ -13,4 +13,4 @@ This lab is my proposal for a solution to the assignment on Sentiment Analysis o
 
 The data, very well known, are part of the `imdb` dataset and have to be extracted from the archive of this repository.
 
-The comments of the `.ipynb` notebook are sometimes in French, sometimes in English.
+The comments of the `notebook.ipynb` notebook are sometimes in French, sometimes in English.
